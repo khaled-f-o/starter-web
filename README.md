@@ -17,6 +17,8 @@ Ery bi hale
 
 ## How to
 
+Fork the thing
+
 ## Copyright
 some notice
 

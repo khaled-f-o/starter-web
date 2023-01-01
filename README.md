@@ -16,3 +16,7 @@ Sample website with plenty of files for demos
 Ery bi hale 
 
 ## How to
+
+## Copyright
+some notice
+

@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Another line here
+more changes from my feature
 
 Rebasing Example
 

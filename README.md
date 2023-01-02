@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 Another line here
 
+Rebasing Example
+
 ## Intro
 
 Bla bla
